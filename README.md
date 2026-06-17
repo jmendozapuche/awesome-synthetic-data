@@ -32,6 +32,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [CTGAN](https://github.com/sdv-dev/CTGAN) – GAN-based framework from SDV for high-quality tabular synthetic data.
 - [Copulas](https://github.com/sdv-dev/Copulas) – Library for modeling multivariate distributions for synthetic data generation.
 - [Synthetic Data from HuggingFace](https://huggingface.co/docs/transformers/main_classes/text_generation) – LLM-based text generation for domain-specific corpora.
+- [LatAm Synth](https://apify.com/active_yardstick/latam-synth) – Domain-specific generator for Latin American financial savings behavior: synthetic users, savings goals, and deposit/withdrawal transactions calibrated on 506K real records (2015–2024). Reproducible by seed, 100% synthetic, zero PII.
 
 ## Privacy & Compliance–Focused Tools
 
